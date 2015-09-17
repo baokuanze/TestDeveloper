@@ -28,7 +28,7 @@ print(type(type("a")));
 -- print("10"..20)
 -- print(10 ..20)
 
-
+--天下之大何其不有
 -- a=20
 -- print(tonumber(a))--装换为number不成功为nil
 
