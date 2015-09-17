@@ -5,7 +5,7 @@ print(type(true));
 print(type(nil));
 print(type(type("a")));
 --]]
-
+---比尔呢修稿了
 -- print(type(a));
 -- a=10;
 -- print(type(a));
