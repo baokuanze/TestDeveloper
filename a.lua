@@ -11,7 +11,7 @@ print(type(type("a")));
 -- print(type(a));
 -- a="a string!!"
 -- print(type(a));
-
+------这个地方要修改
 
 -- a=print;  --a为一个函数
 -- a("name")
